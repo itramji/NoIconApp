@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoIconApplication</string>
+    <string name="authority">com.calltracker.authority</string>
+    <string name="account_type">com.calltracker</string>
+</resources>
